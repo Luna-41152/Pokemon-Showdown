@@ -238,6 +238,12 @@ exports.BattleAliases = {
 	"lycanrocmidday": "Lycanroc",
 	"lycanrocday": "Lycanroc",
 	"lycanrocnight": "Lycanroc-Midnight",
+        "oricoriog": "Oricorio-Sensu",
+        "oricorioe": "Oricorio-Pom-Pom",
+        "oricoriop": "Oricorio-Pa'u",
+        "oricoriof": "Oricorio",
+        "lycanrocd": "Lycanroc",
+        "lycanrocn": "Lycanroc-Midnight",
 
 	// base formes
 	"nidoranfemale": "Nidoran-F",
